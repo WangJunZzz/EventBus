@@ -1,0 +1,11 @@
+C:\Users\VULCAN\source\repos\EventBus\EventBus\bin\Debug\netcoreapp2.1\EventBus.deps.json
+C:\Users\VULCAN\source\repos\EventBus\EventBus\bin\Debug\netcoreapp2.1\EventBus.runtimeconfig.json
+C:\Users\VULCAN\source\repos\EventBus\EventBus\bin\Debug\netcoreapp2.1\EventBus.runtimeconfig.dev.json
+C:\Users\VULCAN\source\repos\EventBus\EventBus\bin\Debug\netcoreapp2.1\EventBus.dll
+C:\Users\VULCAN\source\repos\EventBus\EventBus\bin\Debug\netcoreapp2.1\EventBus.pdb
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.csprojAssemblyReference.cache
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.AssemblyInfoInputs.cache
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.AssemblyInfo.cs
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.dll
+C:\Users\VULCAN\source\repos\EventBus\EventBus\obj\Debug\netcoreapp2.1\EventBus.pdb
